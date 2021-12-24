@@ -1,5 +1,5 @@
 .header-dark {
-  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(background.jpg);
+  background: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(background.jpg);
   background-size: cover;
   padding-bottom: 80px;
 }
